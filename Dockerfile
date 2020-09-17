@@ -4,7 +4,7 @@ ENV APP_ROOT /src
 
 RUN mkdir ${APP_ROOT}
 WORKDIR ${APP_ROOT}
-ADD . ${APP_ROOT}
+ADD ./app/ ${APP_ROOT}
 
 RUN npm install
 
