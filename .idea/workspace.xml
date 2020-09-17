@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2606ccc4-97e5-46d6-8f10-836096150bf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600363398391</updated>
-      <workItem from="1600363399592" duration="1866000" />
+      <workItem from="1600363399592" duration="2137000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1600366905028</created>
@@ -59,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600367323089</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nginx2">
+      <created>1600368539569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600368539569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,13 +75,14 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="init" />
     <MESSAGE value="nginx" />
-    <option name="LAST_COMMIT_MESSAGE" value="nginx" />
+    <MESSAGE value="nginx2" />
+    <option name="LAST_COMMIT_MESSAGE" value="nginx2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1600367322872">
+    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1600368539297">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600367322872" />
+    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600368539297" />
     <state x="598" y="358" key="Github.ShareDialog" timestamp="1600364183888">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -84,9 +91,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="519" y="80" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600364192851" />
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1600367326614">
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1600368540884">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600367326614" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600368540884" />
   </component>
 </project>
