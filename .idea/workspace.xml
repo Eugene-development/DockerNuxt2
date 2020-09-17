@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2606ccc4-97e5-46d6-8f10-836096150bf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600363398391</updated>
-      <workItem from="1600363399592" duration="1029000" />
+      <workItem from="1600363399592" duration="1866000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1600366905028</created>
@@ -42,21 +45,37 @@
       <option name="project" value="LOCAL" />
       <updated>1600366905028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nginx">
+      <created>1600367112132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367112132</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nginx">
+      <created>1600367323089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600367323089</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="nginx" />
+    <option name="LAST_COMMIT_MESSAGE" value="nginx" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1600366904717">
+    <state x="327" y="0" key="CommitChangelistDialog2" timestamp="1600367322872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600366904717" />
+    <state x="327" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600367322872" />
     <state x="598" y="358" key="Github.ShareDialog" timestamp="1600364183888">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -65,9 +84,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="519" y="80" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600364192851" />
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1600366907302">
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1600367326614">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600366907302" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600367326614" />
   </component>
 </project>
