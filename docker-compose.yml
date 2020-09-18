@@ -2,8 +2,8 @@ version: "3"
 
 services:
   nuxt:
-#    build: ./app/
-    image: larux/mynuxt:latest
+    build: ./app/
+#    image: larux/mynuxt:latest
     container_name: nuxt_app
     restart: always
     ports:
